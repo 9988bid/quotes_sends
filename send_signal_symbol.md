@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/9988bid/quotes_sends/main/ck.exe
 ### 2.下载安装后登录
 
 用给到的账号密码去登录，特别注意的是，第一次启动建议右键，【以管理员身份运行】
+
 ![圖片](https://user-images.githubusercontent.com/128469409/226642160-bead65c4-dc25-465f-afb4-badf71e69b40.png)
 
 
