@@ -14,6 +14,9 @@
 
 这1000就是分配的端口号。每个主标的都是不一样的 ，搭建完 等待通知 
 
+将这个数据源置顶
+
+![圖片](https://user-images.githubusercontent.com/128469409/227420013-4bfd6e4e-3e17-49ed-99df-8263e5014f1b.png)
 
 
 
